@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/008/651/202/non_2x/cyber-circuit-future-technology-concept-background-vector.jpg" 
-       alt="Cyber Tech Banner" 
-       width="100%" />
+  <img src="https://img.freepik.com/premium-photo/abstract-cosmic-background-with-blue-nebula-stars_14117-775713.jpg"
+       alt="Cyber Tech Banner"
+       width="100%"
+       style="border-radius: 15px; box-shadow: 0 0 10px rgba(0,0,0,0.3);" />
 </p>
 
-<h1 align="center">👋 | Hello, i'm Assyl</h1>
+<h1 align="center">👋 | Hello, guys</h1>
 <h3 align="center">💻 | AI Developer</h3>
 
 ---
