@@ -2,8 +2,9 @@
   <img src="https://images.wallpapersden.com/image/download/zero-two-minimalist_a21ua2uUmZqaraWkpJRobWllrWdma2U.jpg"
        alt="Cyber Tech Banner"
        width="100%"
-       style="border-radius: 100px; box-shadow: 0 0 10px rgba(0,0,0,0.3);" />
+       style="border-radius: 15px; box-shadow: 0 0 10px rgba(0,0,0,0.3);" />
 </p>
+
 
 <h1 align="center">👋 | Hello, guys</h1>
 <h3 align="center">💻 | AI Developer</h3>
