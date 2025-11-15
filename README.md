@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/47/3c/87/473c870c3566da3445cf0949c5818568.jpg"
+  <img src="https://www.pixelstalk.net/wp-content/uploads/image10/Abstract-grey-galaxy-cosmic-dust-and-stars-desktop-HD-wallpaper.jpg"
        alt="Cyber Tech Banner"
        width="100%"
        style="border-radius: 15px; box-shadow: 0 0 10px rgba(0,0,0,0.3);" />
